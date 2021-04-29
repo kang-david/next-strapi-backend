@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Backend for my first next-strapi app (basic blog)
